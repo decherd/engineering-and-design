@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "engineering-and-design"
+  site-url: "https://decherd.github.io/engineering-and-design"
+  description: "Curriculum for Engineering and Design HS course"
+  repo-branch: main
+  repo-url: "https://github.com/decherd/engineering-and-design"
